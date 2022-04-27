@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Tutorials/Chat/Scene_Chat.unity
-    guid: 038674140c90d09479507785b51079cf
+    path: Assets/Tutorials/Lobby/Scene_Lobby.unity
+    guid: dcaaee166ca5352458eaa116e82f9a61
   m_configObjects: {}
